@@ -1,0 +1,18 @@
+.home-container {
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.home-title {
+  margin-bottom: 8px;
+}
+
+.home-desc {
+  margin-bottom: 16px;
+}
+
+.home-actions button {
+  margin: 0 8px;
+}
